@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can add new Item Blueprint succesfully with valid data</description>
+   <name>PSIBA-001 Verify that user can add new succesfully</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>55caa19f-f442-4f5a-ade4-059e2c41f1e2</testCaseGuid>
+</TestCaseEntity>
