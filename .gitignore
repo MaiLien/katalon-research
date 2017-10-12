@@ -27,3 +27,9 @@ hs_err_pid*
 .settings
 .classpath
 /.svn
+
+/itemblueprint_api/bin
+/itemblueprint_api/Libs
+/itemblueprint_api.settings
+/itemblueprint_api.classpath
+/itemblueprint_api/.svn
